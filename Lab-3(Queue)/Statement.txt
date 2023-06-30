@@ -1,0 +1,7 @@
+A
+bus has a capacity of 30 passengers. There is single door for entry in bus and
+two separate doors for exit. Passengers can occupy seats in front or rear
+sections of bus on first in first out basis. The entry door automatically gets
+closed when bus is full and alarms for the same. Passengers once occupied the
+seat are not asked to change it. Identify the best data structure that can be
+used and implement the program.

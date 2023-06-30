@@ -1,0 +1,11 @@
+Create a BST and write a menu driven
+program to:
+1.perform Preorder Traversal
+2.perform  Inorder Traversal
+3.perform Postorder Traversal
+4.count number of leaf nodes
+5.count number of non-leaf nodes
+6.count number of half-nodes
+7.find height of tree
+8.count number of nodes with ODD data in left subtree of root
+9.check if the tree is Strictly Binary Tree or not.

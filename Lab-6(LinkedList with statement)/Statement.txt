@@ -1,0 +1,13 @@
+•Create
+a Linked List to store information about student as Name, Enroll,
+CGPA.
+
+
+•Create
+a Head Node , which will keep the count of number of students having CGPA
+greater than 7.0
+
+
+•The
+head node should be updated when the new node is inserted or a particular node
+in updated or deleted.
